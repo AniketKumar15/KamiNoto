@@ -1,0 +1,2 @@
+mongodb+srv://aniketkumar41322:<db_password>@cluster0.g9xs2uo.mongodb.net/
+mongodb+srv://aniketkumar41322:aniketkumar41322@cluster0.g9xs2uo.mongodb.net

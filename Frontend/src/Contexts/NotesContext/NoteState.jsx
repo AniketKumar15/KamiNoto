@@ -6,7 +6,7 @@ const NoteState = (props) => {
     const AllNotes = [];
 
     const [notes, SetNotes] = useState(AllNotes);
-    const hostUrl = "http://localhost:5000"
+    const hostUrl = "https://kami-noto.vercel.app"
     // const tempAuth_token = localStorage.getItem("token");
 
     const getAllNotes = async () => {

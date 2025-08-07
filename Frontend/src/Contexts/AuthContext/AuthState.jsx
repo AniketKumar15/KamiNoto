@@ -8,7 +8,7 @@ const AuthState = (props) => {
     const [loading, setLoading] = useState(true);
     const [error, setError] = useState(null);
 
-    const hostUrl = "http://localhost:5000";
+    const hostUrl = "https://kami-noto.vercel.app";
 
     // Load user if token exists
     const loadUser = async (customToken = token) => {
